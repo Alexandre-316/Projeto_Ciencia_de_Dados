@@ -1,0 +1,738 @@
+Data,Tipo,Descricao,Uf
+2017-01-01,Nacional,Confraternização Universal,AC
+2017-02-28,Nacional,Carnaval,AC
+2017-04-14,Nacional,Sexta-feira Santa,AC
+2017-04-21,Nacional,Tiradentes,AC
+2017-05-01,Nacional,Dia do Trabalhador,AC
+2017-06-15,Nacional,Corpus Christi,AC
+2017-09-07,Nacional,Independência do Brasil,AC
+2017-10-12,Nacional,Padroeira do Brasil,AC
+2017-11-02,Nacional,Finados,AC
+2017-11-15,Nacional,Proclamação da República,AC
+2017-12-25,Nacional,Natal,AC
+2017-01-23,Estadual,Dia do evangélico,AC
+2017-05-15,Estadual,Aniversário do Acre,AC
+2017-09-05,Estadual,Dia da Amazônia,AC
+2017-11-17,Estadual,Assinatura do Tratado de Petrópolis,AC
+2017-01-06,Comemorativa,Dia de Reis,AC
+2017-03-08,Comemorativa,Dia da Mulher,AC
+2017-04-16,Comemorativa,Páscoa,AC
+2017-04-19,Comemorativa,Dia do Índio,AC
+2017-04-22,Comemorativa,Descobrimento do Brasil,AC
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,AC
+2017-05-14,Comemorativa,Dia das Mães,AC
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,AC
+2017-06-12,Comemorativa,Dia dos Namorados,AC
+2017-06-24,Comemorativa,Dia de São João,AC
+2017-06-29,Comemorativa,Dia de São Pedro,AC
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,AC
+2017-08-13,Comemorativa,Dia dos Pais,AC
+2017-10-15,Comemorativa,Dia do Professor,AC
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,AC
+2017-01-01,Nacional,Confraternização Universal,AL
+2017-02-28,Nacional,Carnaval,AL
+2017-04-14,Nacional,Sexta-feira Santa,AL
+2017-04-21,Nacional,Tiradentes,AL
+2017-05-01,Nacional,Dia do Trabalhador,AL
+2017-06-15,Nacional,Corpus Christi,AL
+2017-09-07,Nacional,Independência do Brasil,AL
+2017-10-12,Nacional,Padroeira do Brasil,AL
+2017-11-02,Nacional,Finados,AL
+2017-11-15,Nacional,Proclamação da República,AL
+2017-12-25,Nacional,Natal,AL
+2017-06-24,Estadual,São João,AL
+2017-06-29,Estadual,São Pedro,AL
+2017-09-16,Estadual,Emancipação Política de Alago,AL
+2017-11-20,Estadual,Conscriência Negra,AL
+2017-01-06,Comemorativa,Dia de Reis,AL
+2017-03-08,Comemorativa,Dia da Mulher,AL
+2017-04-16,Comemorativa,Páscoa,AL
+2017-04-19,Comemorativa,Dia do Índio,AL
+2017-04-22,Comemorativa,Descobrimento do Brasil,AL
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,AL
+2017-05-14,Comemorativa,Dia das Mães,AL
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,AL
+2017-06-12,Comemorativa,Dia dos Namorados,AL
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,AL
+2017-08-13,Comemorativa,Dia dos Pais,AL
+2017-10-15,Comemorativa,Dia do Professor,AL
+2017-01-01,Nacional,Confraternização Universal,AP
+2017-02-28,Nacional,Carnaval,AP
+2017-04-14,Nacional,Sexta-feira Santa,AP
+2017-04-21,Nacional,Tiradentes,AP
+2017-05-01,Nacional,Dia do Trabalhador,AP
+2017-06-15,Nacional,Corpus Christi,AP
+2017-09-07,Nacional,Independência do Brasil,AP
+2017-10-12,Nacional,Padroeira do Brasil,AP
+2017-11-02,Nacional,Finados,AP
+2017-11-15,Nacional,Proclamação da República,AP
+2017-12-25,Nacional,Natal,AP
+2017-03-19,Estadual,Dia de São José,AP
+2017-07-25,Estadual,São Tiago,AP
+2017-10-05,Estadual,Criação do Estado do Amapá,AP
+2017-11-20,Estadual,Conscriência Negra,AP
+2017-01-06,Comemorativa,Dia de Reis,AP
+2017-03-08,Comemorativa,Dia da Mulher,AP
+2017-04-16,Comemorativa,Páscoa,AP
+2017-04-19,Comemorativa,Dia do Índio,AP
+2017-04-22,Comemorativa,Descobrimento do Brasil,AP
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,AP
+2017-05-14,Comemorativa,Dia das Mães,AP
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,AP
+2017-06-12,Comemorativa,Dia dos Namorados,AP
+2017-06-24,Comemorativa,Dia de São João,AP
+2017-06-29,Comemorativa,Dia de São Pedro,AP
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,AP
+2017-08-13,Comemorativa,Dia dos Pais,AP
+2017-10-15,Comemorativa,Dia do Professor,AP
+2017-01-01,Nacional,Confraternização Universal,AM
+2017-02-28,Nacional,Carnaval,AM
+2017-04-14,Nacional,Sexta-feira Santa,AM
+2017-04-21,Nacional,Tiradentes,AM
+2017-05-01,Nacional,Dia do Trabalhador,AM
+2017-06-15,Nacional,Corpus Christi,AM
+2017-09-07,Nacional,Independência do Brasil,AM
+2017-10-12,Nacional,Padroeira do Brasil,AM
+2017-11-02,Nacional,Finados,AM
+2017-11-15,Nacional,Proclamação da República,AM
+2017-12-25,Nacional,Natal,AM
+2017-09-05,Estadual,Elevação do Amazonas à categoria de,AM
+2017-11-20,Estadual,Conscriência Negra,AM
+2017-12-08,Estadual,Dia de Nossa Senhora da Conceição,AM
+2017-01-06,Comemorativa,Dia de Reis,AM
+2017-03-08,Comemorativa,Dia da Mulher,AM
+2017-04-16,Comemorativa,Páscoa,AM
+2017-04-19,Comemorativa,Dia do Índio,AM
+2017-04-22,Comemorativa,Descobrimento do Brasil,AM
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,AM
+2017-05-14,Comemorativa,Dia das Mães,AM
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,AM
+2017-06-12,Comemorativa,Dia dos Namorados,AM
+2017-06-24,Comemorativa,Dia de São João,AM
+2017-06-29,Comemorativa,Dia de São Pedro,AM
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,AM
+2017-08-13,Comemorativa,Dia dos Pais,AM
+2017-10-15,Comemorativa,Dia do Professor,AM
+2017-01-01,Nacional,Confraternização Universal,BA
+2017-02-28,Nacional,Carnaval,BA
+2017-04-14,Nacional,Sexta-feira Santa,BA
+2017-04-21,Nacional,Tiradentes,BA
+2017-05-01,Nacional,Dia do Trabalhador,BA
+2017-06-15,Nacional,Corpus Christi,BA
+2017-09-07,Nacional,Independência do Brasil,BA
+2017-10-12,Nacional,Padroeira do Brasil,BA
+2017-11-02,Nacional,Finados,BA
+2017-11-15,Nacional,Proclamação da República,BA
+2017-12-25,Nacional,Natal,BA
+2017-07-02,Estadual,Independência da Bahia,BA
+2017-01-06,Comemorativa,Dia de Reis,BA
+2017-03-08,Comemorativa,Dia da Mulher,BA
+2017-04-16,Comemorativa,Páscoa,BA
+2017-04-19,Comemorativa,Dia do Índio,BA
+2017-04-22,Comemorativa,Descobrimento do Brasil,BA
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,BA
+2017-05-14,Comemorativa,Dia das Mães,BA
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,BA
+2017-06-12,Comemorativa,Dia dos Namorados,BA
+2017-06-24,Comemorativa,Dia de São João,BA
+2017-06-29,Comemorativa,Dia de São Pedro,BA
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,BA
+2017-08-13,Comemorativa,Dia dos Pais,BA
+2017-10-15,Comemorativa,Dia do Professor,BA
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,BA
+2017-01-01,Nacional,Confraternização Universal,CE
+2017-02-28,Nacional,Carnaval,CE
+2017-04-14,Nacional,Sexta-feira Santa,CE
+2017-04-21,Nacional,Tiradentes,CE
+2017-05-01,Nacional,Dia do Trabalhador,CE
+2017-06-15,Nacional,Corpus Christi,CE
+2017-09-07,Nacional,Independência do Brasil,CE
+2017-10-12,Nacional,Padroeira do Brasil,CE
+2017-11-02,Nacional,Finados,CE
+2017-11-15,Nacional,Proclamação da República,CE
+2017-12-25,Nacional,Natal,CE
+2017-03-19,Estadual,Dia de São José,CE
+2017-03-25,Estadual,Data Magna do Ceará,CE
+2017-01-06,Comemorativa,Dia de Reis,CE
+2017-03-08,Comemorativa,Dia da Mulher,CE
+2017-04-16,Comemorativa,Páscoa,CE
+2017-04-19,Comemorativa,Dia do Índio,CE
+2017-04-22,Comemorativa,Descobrimento do Brasil,CE
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,CE
+2017-05-14,Comemorativa,Dia das Mães,CE
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,CE
+2017-06-12,Comemorativa,Dia dos Namorados,CE
+2017-06-24,Comemorativa,Dia de São João,CE
+2017-06-29,Comemorativa,Dia de São Pedro,CE
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,CE
+2017-08-13,Comemorativa,Dia dos Pais,CE
+2017-10-15,Comemorativa,Dia do Professor,CE
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,CE
+2017-01-01,Nacional,Confraternização Universal,DF
+2017-02-28,Nacional,Carnaval,DF
+2017-04-14,Nacional,Sexta-feira Santa,DF
+2017-04-21,Nacional,Tiradentes,DF
+2017-05-01,Nacional,Dia do Trabalhador,DF
+2017-06-15,Nacional,Corpus Christi,DF
+2017-09-07,Nacional,Independência do Brasil,DF
+2017-10-12,Nacional,Padroeira do Brasil,DF
+2017-11-02,Nacional,Finados,DF
+2017-11-15,Nacional,Proclamação da República,DF
+2017-12-25,Nacional,Natal,DF
+2017-11-30,Estadual,Dia do Evangélico,DF
+2017-01-06,Comemorativa,Dia de Reis,DF
+2017-03-08,Comemorativa,Dia da Mulher,DF
+2017-04-16,Comemorativa,Páscoa,DF
+2017-04-19,Comemorativa,Dia do Índio,DF
+2017-04-22,Comemorativa,Descobrimento do Brasil,DF
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,DF
+2017-05-14,Comemorativa,Dia das Mães,DF
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,DF
+2017-06-12,Comemorativa,Dia dos Namorados,DF
+2017-06-24,Comemorativa,Dia de São João,DF
+2017-06-29,Comemorativa,Dia de São Pedro,DF
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,DF
+2017-08-13,Comemorativa,Dia dos Pais,DF
+2017-10-15,Comemorativa,Dia do Professor,DF
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,DF
+2017-01-01,Nacional,Confraternização Universal,ES
+2017-02-28,Nacional,Carnaval,ES
+2017-04-14,Nacional,Sexta-feira Santa,ES
+2017-04-21,Nacional,Tiradentes,ES
+2017-05-01,Nacional,Dia do Trabalhador,ES
+2017-06-15,Nacional,Corpus Christi,ES
+2017-09-07,Nacional,Independência do Brasil,ES
+2017-10-12,Nacional,Padroeira do Brasil,ES
+2017-11-02,Nacional,Finados,ES
+2017-11-15,Nacional,Proclamação da República,ES
+2017-12-25,Nacional,Natal,ES
+2017-10-28,Estadual,Dia do Servidor Público,ES
+2017-01-06,Comemorativa,Dia de Reis,ES
+2017-03-08,Comemorativa,Dia da Mulher,ES
+2017-04-16,Comemorativa,Páscoa,ES
+2017-04-19,Comemorativa,Dia do Índio,ES
+2017-04-22,Comemorativa,Descobrimento do Brasil,ES
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,ES
+2017-05-14,Comemorativa,Dia das Mães,ES
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,ES
+2017-06-12,Comemorativa,Dia dos Namorados,ES
+2017-06-24,Comemorativa,Dia de São João,ES
+2017-06-29,Comemorativa,Dia de São Pedro,ES
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,ES
+2017-08-13,Comemorativa,Dia dos Pais,ES
+2017-10-15,Comemorativa,Dia do Professor,ES
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,ES
+2017-01-01,Nacional,Confraternização Universal,GO
+2017-02-28,Nacional,Carnaval,GO
+2017-04-14,Nacional,Sexta-feira Santa,GO
+2017-04-21,Nacional,Tiradentes,GO
+2017-05-01,Nacional,Dia do Trabalhador,GO
+2017-06-15,Nacional,Corpus Christi,GO
+2017-09-07,Nacional,Independência do Brasil,GO
+2017-10-12,Nacional,Padroeira do Brasil,GO
+2017-11-02,Nacional,Finados,GO
+2017-11-15,Nacional,Proclamação da República,GO
+2017-12-25,Nacional,Natal,GO
+2017-10-28,Estadual,Dia do Servidor Público,GO
+2017-01-06,Comemorativa,Dia de Reis,GO
+2017-03-08,Comemorativa,Dia da Mulher,GO
+2017-04-16,Comemorativa,Páscoa,GO
+2017-04-19,Comemorativa,Dia do Índio,GO
+2017-04-22,Comemorativa,Descobrimento do Brasil,GO
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,GO
+2017-05-14,Comemorativa,Dia das Mães,GO
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,GO
+2017-06-12,Comemorativa,Dia dos Namorados,GO
+2017-06-24,Comemorativa,Dia de São João,GO
+2017-06-29,Comemorativa,Dia de São Pedro,GO
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,GO
+2017-08-13,Comemorativa,Dia dos Pais,GO
+2017-10-15,Comemorativa,Dia do Professor,GO
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,GO
+2017-01-01,Nacional,Confraternização Universal,MA
+2017-02-28,Nacional,Carnaval,MA
+2017-04-14,Nacional,Sexta-feira Santa,MA
+2017-04-21,Nacional,Tiradentes,MA
+2017-05-01,Nacional,Dia do Trabalhador,MA
+2017-06-15,Nacional,Corpus Christi,MA
+2017-09-07,Nacional,Independência do Brasil,MA
+2017-10-12,Nacional,Padroeira do Brasil,MA
+2017-11-02,Nacional,Finados,MA
+2017-11-15,Nacional,Proclamação da República,MA
+2017-12-25,Nacional,Natal,MA
+2017-07-28,Estadual,Adesão do Maranhão à independê,MA
+2017-01-06,Comemorativa,Dia de Reis,MA
+2017-03-08,Comemorativa,Dia da Mulher,MA
+2017-04-16,Comemorativa,Páscoa,MA
+2017-04-19,Comemorativa,Dia do Índio,MA
+2017-04-22,Comemorativa,Descobrimento do Brasil,MA
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,MA
+2017-05-14,Comemorativa,Dia das Mães,MA
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,MA
+2017-06-12,Comemorativa,Dia dos Namorados,MA
+2017-06-24,Comemorativa,Dia de São João,MA
+2017-06-29,Comemorativa,Dia de São Pedro,MA
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,MA
+2017-08-13,Comemorativa,Dia dos Pais,MA
+2017-10-15,Comemorativa,Dia do Professor,MA
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,MA
+2017-01-01,Nacional,Confraternização Universal,MT
+2017-02-28,Nacional,Carnaval,MT
+2017-04-14,Nacional,Sexta-feira Santa,MT
+2017-04-21,Nacional,Tiradentes,MT
+2017-05-01,Nacional,Dia do Trabalhador,MT
+2017-06-15,Nacional,Corpus Christi,MT
+2017-09-07,Nacional,Independência do Brasil,MT
+2017-10-12,Nacional,Padroeira do Brasil,MT
+2017-11-02,Nacional,Finados,MT
+2017-11-15,Nacional,Proclamação da República,MT
+2017-12-25,Nacional,Natal,MT
+2017-11-20,Estadual,Conscriência Negra,MT
+2017-01-06,Comemorativa,Dia de Reis,MT
+2017-03-08,Comemorativa,Dia da Mulher,MT
+2017-04-16,Comemorativa,Páscoa,MT
+2017-04-19,Comemorativa,Dia do Índio,MT
+2017-04-22,Comemorativa,Descobrimento do Brasil,MT
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,MT
+2017-05-14,Comemorativa,Dia das Mães,MT
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,MT
+2017-06-12,Comemorativa,Dia dos Namorados,MT
+2017-06-24,Comemorativa,Dia de São João,MT
+2017-06-29,Comemorativa,Dia de São Pedro,MT
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,MT
+2017-08-13,Comemorativa,Dia dos Pais,MT
+2017-10-15,Comemorativa,Dia do Professor,MT
+2017-01-01,Nacional,Confraternização Universal,MS
+2017-02-28,Nacional,Carnaval,MS
+2017-04-14,Nacional,Sexta-feira Santa,MS
+2017-04-21,Nacional,Tiradentes,MS
+2017-05-01,Nacional,Dia do Trabalhador,MS
+2017-06-15,Nacional,Corpus Christi,MS
+2017-09-07,Nacional,Independência do Brasil,MS
+2017-10-12,Nacional,Padroeira do Brasil,MS
+2017-11-02,Nacional,Finados,MS
+2017-11-15,Nacional,Proclamação da República,MS
+2017-12-25,Nacional,Natal,MS
+2017-10-11,Estadual,Criação do estado de Mato Grosso do,MS
+2017-01-06,Comemorativa,Dia de Reis,MS
+2017-03-08,Comemorativa,Dia da Mulher,MS
+2017-04-16,Comemorativa,Páscoa,MS
+2017-04-19,Comemorativa,Dia do Índio,MS
+2017-04-22,Comemorativa,Descobrimento do Brasil,MS
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,MS
+2017-05-14,Comemorativa,Dia das Mães,MS
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,MS
+2017-06-12,Comemorativa,Dia dos Namorados,MS
+2017-06-24,Comemorativa,Dia de São João,MS
+2017-06-29,Comemorativa,Dia de São Pedro,MS
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,MS
+2017-08-13,Comemorativa,Dia dos Pais,MS
+2017-10-15,Comemorativa,Dia do Professor,MS
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,MS
+2017-01-01,Nacional,Confraternização Universal,MG
+2017-02-28,Nacional,Carnaval,MG
+2017-04-14,Nacional,Sexta-feira Santa,MG
+2017-04-21,Nacional,Tiradentes,MG
+2017-05-01,Nacional,Dia do Trabalhador,MG
+2017-06-15,Nacional,Corpus Christi,MG
+2017-09-07,Nacional,Independência do Brasil,MG
+2017-10-12,Nacional,Padroeira do Brasil,MG
+2017-11-02,Nacional,Finados,MG
+2017-11-15,Nacional,Proclamação da República,MG
+2017-12-25,Nacional,Natal,MG
+2017-01-06,Comemorativa,Dia de Reis,MG
+2017-03-08,Comemorativa,Dia da Mulher,MG
+2017-04-16,Comemorativa,Páscoa,MG
+2017-04-19,Comemorativa,Dia do Índio,MG
+2017-04-22,Comemorativa,Descobrimento do Brasil,MG
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,MG
+2017-05-14,Comemorativa,Dia das Mães,MG
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,MG
+2017-06-12,Comemorativa,Dia dos Namorados,MG
+2017-06-24,Comemorativa,Dia de São João,MG
+2017-06-29,Comemorativa,Dia de São Pedro,MG
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,MG
+2017-08-13,Comemorativa,Dia dos Pais,MG
+2017-10-15,Comemorativa,Dia do Professor,MG
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,MG
+2017-01-01,Nacional,Confraternização Universal,PA
+2017-02-28,Nacional,Carnaval,PA
+2017-04-14,Nacional,Sexta-feira Santa,PA
+2017-04-21,Nacional,Tiradentes,PA
+2017-05-01,Nacional,Dia do Trabalhador,PA
+2017-06-15,Nacional,Corpus Christi,PA
+2017-09-07,Nacional,Independência do Brasil,PA
+2017-10-12,Nacional,Padroeira do Brasil,PA
+2017-11-02,Nacional,Finados,PA
+2017-11-15,Nacional,Proclamação da República,PA
+2017-12-25,Nacional,Natal,PA
+2017-08-15,Estadual,Adesão do Grão-Pará à indepen,PA
+2017-01-06,Comemorativa,Dia de Reis,PA
+2017-03-08,Comemorativa,Dia da Mulher,PA
+2017-04-16,Comemorativa,Páscoa,PA
+2017-04-19,Comemorativa,Dia do Índio,PA
+2017-04-22,Comemorativa,Descobrimento do Brasil,PA
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,PA
+2017-05-14,Comemorativa,Dia das Mães,PA
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,PA
+2017-06-12,Comemorativa,Dia dos Namorados,PA
+2017-06-24,Comemorativa,Dia de São João,PA
+2017-06-29,Comemorativa,Dia de São Pedro,PA
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,PA
+2017-08-13,Comemorativa,Dia dos Pais,PA
+2017-10-15,Comemorativa,Dia do Professor,PA
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,PA
+2017-01-01,Nacional,Confraternização Universal,PB
+2017-02-28,Nacional,Carnaval,PB
+2017-04-14,Nacional,Sexta-feira Santa,PB
+2017-04-21,Nacional,Tiradentes,PB
+2017-05-01,Nacional,Dia do Trabalhador,PB
+2017-06-15,Nacional,Corpus Christi,PB
+2017-09-07,Nacional,Independência do Brasil,PB
+2017-10-12,Nacional,Padroeira do Brasil,PB
+2017-11-02,Nacional,Finados,PB
+2017-11-15,Nacional,Proclamação da República,PB
+2017-12-25,Nacional,Natal,PB
+2017-08-05,Estadual,Fundação do Estado da Paraíba,PB
+2017-01-06,Comemorativa,Dia de Reis,PB
+2017-03-08,Comemorativa,Dia da Mulher,PB
+2017-04-16,Comemorativa,Páscoa,PB
+2017-04-19,Comemorativa,Dia do Índio,PB
+2017-04-22,Comemorativa,Descobrimento do Brasil,PB
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,PB
+2017-05-14,Comemorativa,Dia das Mães,PB
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,PB
+2017-06-12,Comemorativa,Dia dos Namorados,PB
+2017-06-24,Comemorativa,Dia de São João,PB
+2017-06-29,Comemorativa,Dia de São Pedro,PB
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,PB
+2017-08-13,Comemorativa,Dia dos Pais,PB
+2017-10-15,Comemorativa,Dia do Professor,PB
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,PB
+2017-01-01,Nacional,Confraternização Universal,PR
+2017-02-28,Nacional,Carnaval,PR
+2017-04-14,Nacional,Sexta-feira Santa,PR
+2017-04-21,Nacional,Tiradentes,PR
+2017-05-01,Nacional,Dia do Trabalhador,PR
+2017-06-15,Nacional,Corpus Christi,PR
+2017-09-07,Nacional,Independência do Brasil,PR
+2017-10-12,Nacional,Padroeira do Brasil,PR
+2017-11-02,Nacional,Finados,PR
+2017-11-15,Nacional,Proclamação da República,PR
+2017-12-25,Nacional,Natal,PR
+2017-01-06,Comemorativa,Dia de Reis,PR
+2017-03-08,Comemorativa,Dia da Mulher,PR
+2017-04-16,Comemorativa,Páscoa,PR
+2017-04-19,Comemorativa,Dia do Índio,PR
+2017-04-22,Comemorativa,Descobrimento do Brasil,PR
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,PR
+2017-05-14,Comemorativa,Dia das Mães,PR
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,PR
+2017-06-12,Comemorativa,Dia dos Namorados,PR
+2017-06-24,Comemorativa,Dia de São João,PR
+2017-06-29,Comemorativa,Dia de São Pedro,PR
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,PR
+2017-08-13,Comemorativa,Dia dos Pais,PR
+2017-10-15,Comemorativa,Dia do Professor,PR
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,PR
+2017-01-01,Nacional,Confraternização Universal,PE
+2017-02-28,Nacional,Carnaval,PE
+2017-04-14,Nacional,Sexta-feira Santa,PE
+2017-04-21,Nacional,Tiradentes,PE
+2017-05-01,Nacional,Dia do Trabalhador,PE
+2017-06-15,Nacional,Corpus Christi,PE
+2017-09-07,Nacional,Independência do Brasil,PE
+2017-10-12,Nacional,Padroeira do Brasil,PE
+2017-11-02,Nacional,Finados,PE
+2017-11-15,Nacional,Proclamação da República,PE
+2017-12-25,Nacional,Natal,PE
+2017-06-24,Estadual,São João,PE
+2017-01-06,Comemorativa,Dia de Reis,PE
+2017-03-08,Comemorativa,Dia da Mulher,PE
+2017-04-16,Comemorativa,Páscoa,PE
+2017-04-19,Comemorativa,Dia do Índio,PE
+2017-04-22,Comemorativa,Descobrimento do Brasil,PE
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,PE
+2017-05-14,Comemorativa,Dia das Mães,PE
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,PE
+2017-06-12,Comemorativa,Dia dos Namorados,PE
+2017-06-29,Comemorativa,Dia de São Pedro,PE
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,PE
+2017-08-13,Comemorativa,Dia dos Pais,PE
+2017-10-15,Comemorativa,Dia do Professor,PE
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,PE
+2017-01-01,Nacional,Confraternização Universal,PI
+2017-02-28,Nacional,Carnaval,PI
+2017-04-14,Nacional,Sexta-feira Santa,PI
+2017-04-21,Nacional,Tiradentes,PI
+2017-05-01,Nacional,Dia do Trabalhador,PI
+2017-06-15,Nacional,Corpus Christi,PI
+2017-09-07,Nacional,Independência do Brasil,PI
+2017-10-12,Nacional,Padroeira do Brasil,PI
+2017-11-02,Nacional,Finados,PI
+2017-11-15,Nacional,Proclamação da República,PI
+2017-12-25,Nacional,Natal,PI
+2017-03-13,Estadual,Dia da Batalha do Jenipapo,PI
+2017-10-19,Estadual,Dia do Piauí,PI
+2017-01-06,Comemorativa,Dia de Reis,PI
+2017-03-08,Comemorativa,Dia da Mulher,PI
+2017-04-16,Comemorativa,Páscoa,PI
+2017-04-19,Comemorativa,Dia do Índio,PI
+2017-04-22,Comemorativa,Descobrimento do Brasil,PI
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,PI
+2017-05-14,Comemorativa,Dia das Mães,PI
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,PI
+2017-06-12,Comemorativa,Dia dos Namorados,PI
+2017-06-24,Comemorativa,Dia de São João,PI
+2017-06-29,Comemorativa,Dia de São Pedro,PI
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,PI
+2017-08-13,Comemorativa,Dia dos Pais,PI
+2017-10-15,Comemorativa,Dia do Professor,PI
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,PI
+2017-01-01,Nacional,Confraternização Universal,RJ
+2017-02-28,Nacional,Carnaval,RJ
+2017-04-14,Nacional,Sexta-feira Santa,RJ
+2017-04-21,Nacional,Tiradentes,RJ
+2017-05-01,Nacional,Dia do Trabalhador,RJ
+2017-06-15,Nacional,Corpus Christi,RJ
+2017-09-07,Nacional,Independência do Brasil,RJ
+2017-10-12,Nacional,Padroeira do Brasil,RJ
+2017-11-02,Nacional,Finados,RJ
+2017-11-15,Nacional,Proclamação da República,RJ
+2017-12-25,Nacional,Natal,RJ
+2017-04-23,Estadual,Dia de São Jorge,RJ
+2017-10-28,Estadual,Dia do Funcionário Público,RJ
+2017-11-20,Estadual,Zumbi dos Palmares,RJ
+2017-01-06,Comemorativa,Dia de Reis,RJ
+2017-03-08,Comemorativa,Dia da Mulher,RJ
+2017-04-16,Comemorativa,Páscoa,RJ
+2017-04-19,Comemorativa,Dia do Índio,RJ
+2017-04-22,Comemorativa,Descobrimento do Brasil,RJ
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,RJ
+2017-05-14,Comemorativa,Dia das Mães,RJ
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,RJ
+2017-06-12,Comemorativa,Dia dos Namorados,RJ
+2017-06-24,Comemorativa,Dia de São João,RJ
+2017-06-29,Comemorativa,Dia de São Pedro,RJ
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,RJ
+2017-08-13,Comemorativa,Dia dos Pais,RJ
+2017-10-15,Comemorativa,Dia do Professor,RJ
+2017-01-01,Nacional,Confraternização Universal,RN
+2017-02-28,Nacional,Carnaval,RN
+2017-04-14,Nacional,Sexta-feira Santa,RN
+2017-04-21,Nacional,Tiradentes,RN
+2017-05-01,Nacional,Dia do Trabalhador,RN
+2017-06-15,Nacional,Corpus Christi,RN
+2017-09-07,Nacional,Independência do Brasil,RN
+2017-10-12,Nacional,Padroeira do Brasil,RN
+2017-11-02,Nacional,Finados,RN
+2017-11-15,Nacional,Proclamação da República,RN
+2017-12-25,Nacional,Natal,RN
+2017-06-29,Estadual,Dia de São Pedro,RN
+2017-10-03,Estadual,Mártires de Cunhaú e Uruaçuu,RN
+2017-01-06,Comemorativa,Dia de Reis,RN
+2017-03-08,Comemorativa,Dia da Mulher,RN
+2017-04-16,Comemorativa,Páscoa,RN
+2017-04-19,Comemorativa,Dia do Índio,RN
+2017-04-22,Comemorativa,Descobrimento do Brasil,RN
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,RN
+2017-05-14,Comemorativa,Dia das Mães,RN
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,RN
+2017-06-12,Comemorativa,Dia dos Namorados,RN
+2017-06-24,Comemorativa,Dia de São João,RN
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,RN
+2017-08-13,Comemorativa,Dia dos Pais,RN
+2017-10-15,Comemorativa,Dia do Professor,RN
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,RN
+2017-01-01,Nacional,Confraternização Universal,RS
+2017-02-28,Nacional,Carnaval,RS
+2017-04-14,Nacional,Sexta-feira Santa,RS
+2017-04-21,Nacional,Tiradentes,RS
+2017-05-01,Nacional,Dia do Trabalhador,RS
+2017-06-15,Nacional,Corpus Christi,RS
+2017-09-07,Nacional,Independência do Brasil,RS
+2017-10-12,Nacional,Padroeira do Brasil,RS
+2017-11-02,Nacional,Finados,RS
+2017-11-15,Nacional,Proclamação da República,RS
+2017-12-25,Nacional,Natal,RS
+2017-09-20,Estadual,Revolução Farroupilha,RS
+2017-01-06,Comemorativa,Dia de Reis,RS
+2017-03-08,Comemorativa,Dia da Mulher,RS
+2017-04-16,Comemorativa,Páscoa,RS
+2017-04-19,Comemorativa,Dia do Índio,RS
+2017-04-22,Comemorativa,Descobrimento do Brasil,RS
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,RS
+2017-05-14,Comemorativa,Dia das Mães,RS
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,RS
+2017-06-12,Comemorativa,Dia dos Namorados,RS
+2017-06-24,Comemorativa,Dia de São João,RS
+2017-06-29,Comemorativa,Dia de São Pedro,RS
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,RS
+2017-08-13,Comemorativa,Dia dos Pais,RS
+2017-10-15,Comemorativa,Dia do Professor,RS
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,RS
+2017-01-01,Nacional,Confraternização Universal,RO
+2017-02-28,Nacional,Carnaval,RO
+2017-04-14,Nacional,Sexta-feira Santa,RO
+2017-04-21,Nacional,Tiradentes,RO
+2017-05-01,Nacional,Dia do Trabalhador,RO
+2017-06-15,Nacional,Corpus Christi,RO
+2017-09-07,Nacional,Independência do Brasil,RO
+2017-10-12,Nacional,Padroeira do Brasil,RO
+2017-11-02,Nacional,Finados,RO
+2017-11-15,Nacional,Proclamação da República,RO
+2017-12-25,Nacional,Natal,RO
+2017-01-04,Estadual,Criação do estado de Rondônia,RO
+2017-06-18,Estadual,Dia do Evangélico,RO
+2017-01-06,Comemorativa,Dia de Reis,RO
+2017-03-08,Comemorativa,Dia da Mulher,RO
+2017-04-16,Comemorativa,Páscoa,RO
+2017-04-19,Comemorativa,Dia do Índio,RO
+2017-04-22,Comemorativa,Descobrimento do Brasil,RO
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,RO
+2017-05-14,Comemorativa,Dia das Mães,RO
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,RO
+2017-06-12,Comemorativa,Dia dos Namorados,RO
+2017-06-24,Comemorativa,Dia de São João,RO
+2017-06-29,Comemorativa,Dia de São Pedro,RO
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,RO
+2017-08-13,Comemorativa,Dia dos Pais,RO
+2017-10-15,Comemorativa,Dia do Professor,RO
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,RO
+2017-01-01,Nacional,Confraternização Universal,RR
+2017-02-28,Nacional,Carnaval,RR
+2017-04-14,Nacional,Sexta-feira Santa,RR
+2017-04-21,Nacional,Tiradentes,RR
+2017-05-01,Nacional,Dia do Trabalhador,RR
+2017-06-15,Nacional,Corpus Christi,RR
+2017-09-07,Nacional,Independência do Brasil,RR
+2017-10-12,Nacional,Padroeira do Brasil,RR
+2017-11-02,Nacional,Finados,RR
+2017-11-15,Nacional,Proclamação da República,RR
+2017-12-25,Nacional,Natal,RR
+2017-10-05,Estadual,Criação de Roraima,RR
+2017-01-06,Comemorativa,Dia de Reis,RR
+2017-03-08,Comemorativa,Dia da Mulher,RR
+2017-04-16,Comemorativa,Páscoa,RR
+2017-04-19,Comemorativa,Dia do Índio,RR
+2017-04-22,Comemorativa,Descobrimento do Brasil,RR
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,RR
+2017-05-14,Comemorativa,Dia das Mães,RR
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,RR
+2017-06-12,Comemorativa,Dia dos Namorados,RR
+2017-06-24,Comemorativa,Dia de São João,RR
+2017-06-29,Comemorativa,Dia de São Pedro,RR
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,RR
+2017-08-13,Comemorativa,Dia dos Pais,RR
+2017-10-15,Comemorativa,Dia do Professor,RR
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,RR
+2017-01-01,Nacional,Confraternização Universal,SC
+2017-02-28,Nacional,Carnaval,SC
+2017-04-14,Nacional,Sexta-feira Santa,SC
+2017-04-21,Nacional,Tiradentes,SC
+2017-05-01,Nacional,Dia do Trabalhador,SC
+2017-06-15,Nacional,Corpus Christi,SC
+2017-09-07,Nacional,Independência do Brasil,SC
+2017-10-12,Nacional,Padroeira do Brasil,SC
+2017-11-02,Nacional,Finados,SC
+2017-11-15,Nacional,Proclamação da República,SC
+2017-12-25,Nacional,Natal,SC
+2017-08-11,Estadual,Criação da capitania,SC
+2017-01-06,Comemorativa,Dia de Reis,SC
+2017-03-08,Comemorativa,Dia da Mulher,SC
+2017-04-16,Comemorativa,Páscoa,SC
+2017-04-19,Comemorativa,Dia do Índio,SC
+2017-04-22,Comemorativa,Descobrimento do Brasil,SC
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,SC
+2017-05-14,Comemorativa,Dia das Mães,SC
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,SC
+2017-06-12,Comemorativa,Dia dos Namorados,SC
+2017-06-24,Comemorativa,Dia de São João,SC
+2017-06-29,Comemorativa,Dia de São Pedro,SC
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,SC
+2017-08-13,Comemorativa,Dia dos Pais,SC
+2017-10-15,Comemorativa,Dia do Professor,SC
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,SC
+2017-01-01,Nacional,Confraternização Universal,SP
+2017-02-28,Nacional,Carnaval,SP
+2017-04-14,Nacional,Sexta-feira Santa,SP
+2017-04-21,Nacional,Tiradentes,SP
+2017-05-01,Nacional,Dia do Trabalhador,SP
+2017-06-15,Nacional,Corpus Christi,SP
+2017-09-07,Nacional,Independência do Brasil,SP
+2017-10-12,Nacional,Padroeira do Brasil,SP
+2017-11-02,Nacional,Finados,SP
+2017-11-15,Nacional,Proclamação da República,SP
+2017-12-25,Nacional,Natal,SP
+2017-07-09,Estadual,Revolução Constitucionalista de 1932,SP
+2017-01-06,Comemorativa,Dia de Reis,SP
+2017-03-08,Comemorativa,Dia da Mulher,SP
+2017-04-16,Comemorativa,Páscoa,SP
+2017-04-19,Comemorativa,Dia do Índio,SP
+2017-04-22,Comemorativa,Descobrimento do Brasil,SP
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,SP
+2017-05-14,Comemorativa,Dia das Mães,SP
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,SP
+2017-06-12,Comemorativa,Dia dos Namorados,SP
+2017-06-24,Comemorativa,Dia de São João,SP
+2017-06-29,Comemorativa,Dia de São Pedro,SP
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,SP
+2017-08-13,Comemorativa,Dia dos Pais,SP
+2017-10-15,Comemorativa,Dia do Professor,SP
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,SP
+2017-01-01,Nacional,Confraternização Universal,SE
+2017-02-28,Nacional,Carnaval,SE
+2017-04-14,Nacional,Sexta-feira Santa,SE
+2017-04-21,Nacional,Tiradentes,SE
+2017-05-01,Nacional,Dia do Trabalhador,SE
+2017-06-15,Nacional,Corpus Christi,SE
+2017-09-07,Nacional,Independência do Brasil,SE
+2017-10-12,Nacional,Padroeira do Brasil,SE
+2017-11-02,Nacional,Finados,SE
+2017-11-15,Nacional,Proclamação da República,SE
+2017-12-25,Nacional,Natal,SE
+2017-07-08,Estadual,Autonomia política de Sergipe,SE
+2017-01-06,Comemorativa,Dia de Reis,SE
+2017-03-08,Comemorativa,Dia da Mulher,SE
+2017-04-16,Comemorativa,Páscoa,SE
+2017-04-19,Comemorativa,Dia do Índio,SE
+2017-04-22,Comemorativa,Descobrimento do Brasil,SE
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,SE
+2017-05-14,Comemorativa,Dia das Mães,SE
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,SE
+2017-06-12,Comemorativa,Dia dos Namorados,SE
+2017-06-24,Comemorativa,Dia de São João,SE
+2017-06-29,Comemorativa,Dia de São Pedro,SE
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,SE
+2017-08-13,Comemorativa,Dia dos Pais,SE
+2017-10-15,Comemorativa,Dia do Professor,SE
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,SE
+2017-01-01,Nacional,Confraternização Universal,TO
+2017-02-28,Nacional,Carnaval,TO
+2017-04-14,Nacional,Sexta-feira Santa,TO
+2017-04-21,Nacional,Tiradentes,TO
+2017-05-01,Nacional,Dia do Trabalhador,TO
+2017-06-15,Nacional,Corpus Christi,TO
+2017-09-07,Nacional,Independência do Brasil,TO
+2017-10-12,Nacional,Padroeira do Brasil,TO
+2017-11-02,Nacional,Finados,TO
+2017-11-15,Nacional,Proclamação da República,TO
+2017-12-25,Nacional,Natal,TO
+2017-03-18,Estadual,Dia da Autonomia do Estado,TO
+2017-09-08,Estadual,Nossa Senhora da Natividade,TO
+2017-10-05,Estadual,Criação de Tocantins,TO
+2017-01-06,Comemorativa,Dia de Reis,TO
+2017-03-08,Comemorativa,Dia da Mulher,TO
+2017-04-16,Comemorativa,Páscoa,TO
+2017-04-19,Comemorativa,Dia do Índio,TO
+2017-04-22,Comemorativa,Descobrimento do Brasil,TO
+2017-05-13,Comemorativa,Dia da Abolição da Escravatura,TO
+2017-05-14,Comemorativa,Dia das Mães,TO
+2017-06-05,Comemorativa,Dia Mundial do Meio Ambiente,TO
+2017-06-12,Comemorativa,Dia dos Namorados,TO
+2017-06-24,Comemorativa,Dia de São João,TO
+2017-06-29,Comemorativa,Dia de São Pedro,TO
+2017-07-20,Comemorativa,Dia do Amigo e Internacional da Amizade,TO
+2017-08-13,Comemorativa,Dia dos Pais,TO
+2017-10-15,Comemorativa,Dia do Professor,TO
+2017-11-20,Comemorativa,Dia Nacional da Consciência Negra,TO
