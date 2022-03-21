@@ -1,1 +1,1 @@
-#PUC MG Ciencia de Dados
+PUC MG Ciencia de Dados
