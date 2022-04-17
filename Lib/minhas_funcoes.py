@@ -893,31 +893,6 @@ def calcula_lucro_total(p_df):
     lucro = round(p_df['lucro'].sum(), 2)
     return lucro
 
-def hopkins(X):
-    d = X.shape[1]
-    #d = len(vars) # columns
-    n = len(X) # rows
-    m = int(0.1 * n) 
-    nbrs = NearestNeighbors(n_neighbors=1).fit(X.values)
- 
-    rand_X = sample(range(0, n, 1), m)
- 
-    ujd = []
-    wjd = []
-    for j in range(0, m):
-        u_dist, _ = nbrs.kneighbors(uniform(np.amin(X,axis=0),np.amax(X,axis=0),d).reshape(1, -1), 2, return_distance=True)
-        ujd.append(u_dist[0][1])
-        w_dist, _ = nbrs.kneighbors(X.iloc[rand_X[j]].values.reshape(1, -1), 2, return_distance=True)
-        wjd.append(w_dist[0][1])
- 
-    H = sum(ujd) / (sum(ujd) + sum(wjd))
-    if isnan(H):
-        print(ujd, wjd)
-        H = 0
- 
-    return H
-
-
 def verifica_correlacao(p_df_abt,p_intervalo_ini, p_intervalo_fim):
     #Todas as features sem autocorrelação e que têm muita correlação(1) c/ outras.
     df_corr=p_df_abt.corr(method='spearman').abs().unstack().sort_values(ascending= False).reset_index()
@@ -926,7 +901,7 @@ def verifica_correlacao(p_df_abt,p_intervalo_ini, p_intervalo_fim):
     for k in range(df_corr_1.shape[0]):
         campo1=df_corr_1["level_0"].iloc[k]
         campo2=df_corr_1["level_1"].iloc[k]
-        test_statistics, pvalue = stats.spearmanr(df_abt[campo1], df_abt[campo2])
+        test_statistics, pvalue = stats.spearmanr(p_df_abt[campo1], p_df_abt[campo2])
         if(pvalue < 0.05):
             print("Para  {} {}  HÁ CORRELAÇÃO. p-value={} estatistica={:.4f}".format(campo1,campo2, pvalue,test_statistics))
         else:
@@ -939,12 +914,12 @@ def conferindo_correlacao(p_df_abt,p_intervalo_ini, p_intervalo_fim):
     df_corr=p_df_abt.corr(method='spearman').abs().unstack().sort_values(ascending= False).reset_index()
     df_corr_1=df_corr[(df_corr.level_0!=df_corr.level_1)&((df_corr.iloc[:, 2]>p_intervalo_ini)&(df_corr.iloc[:, 2]<=p_intervalo_fim))] 
     #display(df_corr_1)
-    print("{} correlações de {} à {} \nNúmero features agora {}.".format(len(df_corr_1),p_intervalo_ini,p_intervalo_fim,df_abt.shape[1]))
+    print("{} correlações de {} à {} \nNúmero features agora {}.".format(len(df_corr_1),p_intervalo_ini,p_intervalo_fim,p_df_abt.shape[1]))
     return 
 
-def transforma_tlc(p_df_abt, p_df_abt_tlc):
+def transforma_tlc(p_df_abt, p_df_abt_tlc,p_features_corr):
     #106 features
-    for var in features_corr:
+    for var in p_features_corr:
         #Aplicando Teorem do Limite Central(TLC)
         dist_auxiliar = amostra_means(p_df_abt[var],750,350)        
         df_dist_normal=pd.DataFrame(dist_auxiliar)
@@ -996,8 +971,11 @@ def teste_estatistico(p_df,p_feature,p_numero_amostras,p_tamanho_amostra, p_len_
         #plt.subplot( 1, 1, 1 )
     else:            
         #Aplicando Teorem do Limite Central(TLC)-amostra
-        df_aux=df_abt.loc[df_abt[p_feature_filtro] == p_filtro]
-        df_aux=pd.DataFrame(p_df[[p_feature]])
+        #df_aux=p_df_abt.loc[p_df_abt[p_feature_filtro] == p_filtro]
+        #df_aux=pd.DataFrame(p_df[[p_feature]])
+        
+        df_aux=p_df.loc[p_df[p_feature_filtro] == p_filtro]
+        df_aux=pd.DataFrame(df_aux)
         dist_parcial = amostra_means(df_aux[p_feature],p_numero_amostras,p_tamanho_amostra)
         df_dist_parcial=pd.DataFrame(dist_parcial)
         df_dist_parcial.columns = [p_feature]       
@@ -1225,7 +1203,7 @@ def visual_4(p_data, p_lista):
         plt.title('Outliers - '+ coluna)    
     
         plt.show() 
-        return
+    return
  
 
 
